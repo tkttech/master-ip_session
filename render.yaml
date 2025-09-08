@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: MASTER-IP_MD
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/1praise7012/---SETTION
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true

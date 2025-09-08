@@ -1,1 +1,11 @@
-# master-ip_session
+# MASTER-IP_MD-SESSION-GENERATOR
+
+
+#by TKT-TECH🇿🇼
+
+`FOLLOW OUR OFFICIAL CHANNEL LINK BELOW`
+`https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a
+
+_*DON'T FORK THIS REPO IF YOU DON'T KNOW ANYTHING*_
+
+`𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲  𝐓𝐄𝐂𝐇-𝐃𝐄𝐕-𝐈𝐍𝐂🇿🇼`
