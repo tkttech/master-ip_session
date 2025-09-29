@@ -100,8 +100,8 @@ contextInfo: {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "TKT-TECH ᴏꜰᴄ",
-                                thumbnailUrl: "https://files.catbox.moe/d622xc.png",
+                                title: "ᵀᴱᶜᴴ ᴰᴱⱽ ᴏꜰᴄ",
+                                thumbnailUrl: "https://files.catbox.moe/h48dlj.jpg",
                                 sourceUrl: "https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
@@ -118,7 +118,7 @@ contextInfo: {
                     logger.error(`Error in connection update: ${error.message}`);
                     const errorMessage = await sock.sendMessage(sock.user.id, { text: error.message });
                     let cap = `
-*\`TKT-CYBER-XMD-V3\` Session Connected ✅*
+*\`MASTER-IP_MD-V3\` Session Connected ✅*
 
 ⚠️ *ᴅᴏɴᴛ ꜱʜᴀʀᴇ ᴛʜɪꜱ ᴄᴏᴅᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ.*
 
@@ -127,7 +127,7 @@ contextInfo: {
 *───────────────*
 🌟 *\`sᴛᴀʀ ʀᴇᴘᴏ:\`* https://github.com/1praise7012/MASTER-IP_MD-V3
 🔔 *\`ғᴏʟʟᴏᴡ ᴡᴀ-ᴄʜᴀɴɴᴇʟ:\`* https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a
-👤 *\`ᴏᴡɴᴇʀ ɴᴏ:\`* 263718095555
+👤 *\`ᴏᴡɴᴇʀ ɴᴏ:\`* 263779540058
 *───────────────*
 
 > *© ᴘᴏᴡᴇʀᴅ ʙʏ | MASTER-IP ᴏꜰᴄ*
@@ -136,7 +136,7 @@ contextInfo: {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "ᴛᴋᴛ-ᴛᴇᴄʜ ᴏꜰᴄ",
+                                title: "ᴛᴱᶜᴴ-ᴰᴱⱽ ᴏꜰᴄ",
                                 thumbnailUrl:"https://files.catbox.moe/h48dlj.jpg",
                                 sourceUrl: "https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a",
                                 mediaType: 2,
