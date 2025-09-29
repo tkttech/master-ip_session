@@ -15,7 +15,7 @@ const {
     DisconnectReason,
 } = require('@whiskeysockets/baileys');
 const axios = require('axios');
-const THARUZZ_DEV_NUMBER = "263718095555";
+const THARUZZ_DEV_NUMBER = "263779540058";
 
 function removeFile(filePath) {
     if (!fs.existsSync(filePath)) return false;
@@ -122,7 +122,7 @@ contextInfo: {
 
 ⚠️ *ᴅᴏɴᴛ ꜱʜᴀʀᴇ ᴛʜɪꜱ ᴄᴏᴅᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ.*
 
-🚀 *ᴢɪᴍʙᴀʙᴡᴇ'ꜱ  ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ.ᴛᴀꜰᴀᴅᴢᴡᴀ-ᴛᴋᴛ.*
+🚀 *ᴢɪᴍʙᴀʙᴡᴇ'ꜱ  ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙼𝙰𝚂𝚃𝙴𝚁-𝙸𝙿🇿🇼.*
 
 *───────────────*
 🌟 *\`sᴛᴀʀ ʀᴇᴘᴏ:\`* https://github.com/1praise7012/MASTER-IP_MD-V3
